@@ -27,4 +27,5 @@
   <a href="https://codepen.io/MatheusGatti" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
   <a href="https://instagram.com/matheusgaatti" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gattimatheus/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  ![Snake animation](https://github.com/MatheusGatti/MatheusGatti/blob/output/github-contribution-grid-snake.svg)
 </div>
