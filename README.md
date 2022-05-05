@@ -1,5 +1,7 @@
 ### Opa, eu sou o Matheus e sou um apaixonado por programação!
 
+<a href="https://matheusgatti.github.io">Acesse aqui o meu portfólio.</a>
+
 <a href="https://github.com/MatheusGatti">
   <div align="left">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusGatti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
